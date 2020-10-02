@@ -4,5 +4,5 @@
 
 [3. IR Sensor Markdown File](https://github.com/iniyan-kannappan/GPIO/blob/master/3_InfraRed-Sensor/sensor.md)
 
-[4. Motion Sensor Markdown File](https://github.com/iniyan-kannappan/GPIO/blob/master/4_Motion-Sensor/motion.md)
+[4. Motion Sensor Markdown File](https://github.com/iniyan-kannappan/GPIO/blob/master/4_Motion-Sensor/motion-sensor.md)
 
